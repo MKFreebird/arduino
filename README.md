@@ -1,6 +1,4 @@
-This repository contains arduino sketches with their breadboard views.
-
-[Infrared]
+Infrared
 
 The infrared sketch uses the Arduino-IRremote library. Download it here: https://github.com/shirriff/Arduino-IRremote 
 Infrared receiver:
